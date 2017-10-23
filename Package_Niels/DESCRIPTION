@@ -1,0 +1,17 @@
+Package: mls.niels
+Type: Package
+Title: log likelihood scores for regression
+Version: 1.0.0
+Date: 2017-10-18
+Author: Niels Kruse [aut,cre]
+Maintainer: Niels Kruse <Niels.kruse@uzh.ch>
+Description: Functions to calculate logistic likelihood score for heteroskedastic mls regression.
+License: GPL (>=2)
+Depends:
+    R (>= 3.1.0),
+    stats,
+    MASS
+Imports:
+    nnet
+URL: 
+RoxygenNote: 5.0.1

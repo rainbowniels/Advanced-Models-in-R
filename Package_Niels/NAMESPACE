@@ -1,0 +1,2 @@
+import(MASS,nnet,stats)
+export(lab1,lab2)
